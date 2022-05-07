@@ -1,0 +1,13 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+	"name" : "Ember Twin",
+	"Orbit": {
+		"semiMajorAxis": 500,
+		"trueAnomaly": 180
+	},
+	"Base" : 
+	{
+		"surfaceSize" : 150,
+		"gravityFallOff": "inverseSquared"
+	}
+}
