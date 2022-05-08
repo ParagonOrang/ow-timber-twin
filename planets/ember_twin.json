@@ -3,7 +3,8 @@
 	"name" : "Ember Twin",
 	"Orbit": {
 		"semiMajorAxis": 500,
-		"trueAnomaly": 180
+		"trueAnomaly": 180,
+		"inclination": 180
 	},
 	"Base" : 
 	{
